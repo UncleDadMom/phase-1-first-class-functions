@@ -22,7 +22,7 @@ function receivesAFunction(callback) {
 };
 function returnsANamedFunction() {
    return function brandNew() {
-    x + y
+    
    }
 };
 function returnsAnAnonymousFunction() {
